@@ -1,10 +1,10 @@
 TouchRepo README
 
 What is it?
-TouchRepo is a lightweight tool for Linux that lets you browse, view, and download files from any GitHub repository without cloning it. It keeps your disk clean and saves time.
+TouchRepo is a professional, pre-compiled tool for Linux that lets you browse, view, and download files from any GitHub repository without cloning. It is delivered as a binary file (.bin) for maximum speed and zero setup.
 
 How to Install Zenity
-TouchRepo needs Zenity and Curl to run. Use the command for your Linux version below:
+TouchRepo needs Zenity to show you the windows. Run the command for your Linux version:
 
 Ubuntu, Debian, or Mint:
 sudo apt update && sudo apt install zenity curl -y
@@ -15,31 +15,28 @@ sudo dnf install zenity curl
 Arch Linux:
 sudo pacman -S zenity curl
 
-openSUSE:
-sudo zypper install zenity curl
-
 How to use TouchRepo
 
-   1.Download the script or clone the repo.
+    Download the touchrepo.bin file.
 
-   2.Open your terminal in the folder.
+    Open your terminal in that folder.
 
-   3. Make the script executable: chmod +x touchrepo.sh
+    Give it permission to run: chmod +x touchrepo.bin
 
-  4. Run it: ./touchrepo.sh
+    Start the app: ./touchrepo.bin
 
 How it works
 
-    Add: Paste a GitHub link or a username/repo name. It cleans the link automatically.
+    Add: Paste a GitHub link. The tool handles the rest.
 
-    Browse: Select a repo from your saved list in repos.txt.
+    Vault: Your repos are saved in repos.txt automatically.
 
-    View: Read the code of any file directly in a popup window.
+    Browse: Open any repo and see the files inside instantly.
 
-    Download: Save only the file you actually need to your computer.
+    Download: Pick a file and save it to your PC without cloning the whole repo.
 
 Pro Hack
-To run it by just typing touchrepo from anywhere, run this command:
-sudo cp touchrepo.sh /usr/local/bin/touchrepo && sudo chmod +x /usr/local/bin/touchrepo
+Move the binary to your system path to use it like a real Linux command:
+sudo cp touchrepo.bin /usr/local/bin/touchrepo && sudo chmod +x /usr/local/bin/touchrepo
 
 Created by giorgich11
