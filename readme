@@ -1,0 +1,45 @@
+TouchRepo README
+
+What is it?
+TouchRepo is a lightweight tool for Linux that lets you browse, view, and download files from any GitHub repository without cloning it. It keeps your disk clean and saves time.
+
+How to Install Zenity
+TouchRepo needs Zenity and Curl to run. Use the command for your Linux version below:
+
+Ubuntu, Debian, or Mint:
+sudo apt update && sudo apt install zenity curl -y
+
+Fedora:
+sudo dnf install zenity curl
+
+Arch Linux:
+sudo pacman -S zenity curl
+
+openSUSE:
+sudo zypper install zenity curl
+
+How to use TouchRepo
+
+   1.Download the script or clone the repo.
+
+   2.Open your terminal in the folder.
+
+   3. Make the script executable: chmod +x touchrepo.sh
+
+  4. Run it: ./touchrepo.sh
+
+How it works
+
+    Add: Paste a GitHub link or a username/repo name. It cleans the link automatically.
+
+    Browse: Select a repo from your saved list in repos.txt.
+
+    View: Read the code of any file directly in a popup window.
+
+    Download: Save only the file you actually need to your computer.
+
+Pro Hack
+To run it by just typing touchrepo from anywhere, run this command:
+sudo cp touchrepo.sh /usr/local/bin/touchrepo && sudo chmod +x /usr/local/bin/touchrepo
+
+Created by giorgich11
