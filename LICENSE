@@ -1,49 +1,52 @@
-PROPRIETARY SOFTWARE LICENSE AGREEMENT
-Copyright (c) 2026 giorgich11
+Universal Proprietary Software License Agreement (G11 Studios - v2.3)
 
-1. OWNERSHIP
-This software, including all source code, binaries, libraries, and documentation, is the exclusive property of giorgich11. All rights not expressly granted in this license are reserved by the owner.
+Section 1 – OWNERSHIP & EXCLUSIVE RIGHTS
+All software, source code, binaries, logic, and branding hosted within any repository owned by giorgich11 (the "Software") is the exclusive property of giorgich11 ("the Owner"). This license is a proprietary legal instrument created for the sole use of G11 Studios.
 
-2. GRANT OF LICENSE
-Subject to the terms of this Agreement, giorgich11 grants you a non-exclusive, non-transferable right to view and study the source code for personal, non-commercial, and educational purposes only.
+Section 2 – GRANT OF LICENSE
+The Owner grants a non-exclusive, non-transferable right to view and study the source code for personal, non-commercial, and educational purposes only. Any execution, distribution, or commercial use requires express written consent from giorgich11.
 
-3. RESTRICTIONS
+Section 3 – RESTRICTIONS
+You are strictly prohibited from:
 
-    No Redistribution: You may not redistribute, re-upload, mirror, or transmit this software or its source code to any third party or hosting platform.
+    Redistributing, mirroring, or re-uploading the Software on any platform.
 
-    No Derivative Works: You may not modify, adapt, translate, or create derivative works based upon the software.
+    Creating derivative works or "forks" that modify or obscure the original logic.
 
-    No Sublicensing: You may not rent, lease, or sublicense the software to any other person or entity.
+    Sublicensing or selling any portion of the Software without the Owner's permission.
 
-4. ATTRIBUTION
-You may mention and discuss the software in public forums, provided that giorgich11 is clearly credited as the sole owner and author.
+Section 4 – ATTRIBUTION
+Any public mention or display of the Software must credit giorgich11 as the sole creator and link back to the original G11 Studios source repository.
 
-5. TERMINATION
-This license is effective until terminated. Your rights under this license will terminate automatically without notice from giorgich11 if you fail to comply with any term(s) of this license.
+Section 5 – AUTOMATIC TERMINATION
+Any breach of any section results in the immediate and automatic termination of your right to access or possess any Software owned by giorgich11.
 
-6. TERMINATION AT WILL
-giorgich11 reserves the right to terminate or revoke this license and any granted access to the software at any time, for any reason or no reason, with or without prior notice. Upon such termination, you must immediately cease all use of the software and destroy all copies in your possession.
+Section 6 – TERMINATION AT WILL
+The Owner reserves the absolute right to revoke access or terminate this license for any user at any time, for any reason, without prior notice.
 
-7. NO REVERSE ENGINEERING
-You are strictly prohibited from decompiling, disassembling, or attempting to derive the source code from any provided binaries or obfuscated scripts.
+Section 7 – NO REVERSE ENGINEERING
+Users may not decompile, disassemble, or attempt to extract the underlying logic of the Software for the purpose of redistribution or creating competitor tools.
 
-8. DISCLAIMER OF WARRANTY & LIMITATION OF LIABILITY
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. IN NO EVENT SHALL GIORGICH11 BE LIABLE FOR ANY DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE SOFTWARE.
+Section 8 – DISCLAIMER OF WARRANTY
+The Software is provided "AS IS." giorgich11 is not liable for any damages, data loss, or system instability arising from the use or misuse of the Software.
 
-9. GOVERNING LAW & ENFORCEMENT
-This agreement is governed by the laws of the owner's choosing. giorgich11 reserves the right to pursue all available legal and digital remedies, including DMCA takedown requests.
+Section 9 – GOVERNING LAW & JURISDICTION
+This Agreement is governed by the laws of the Owner’s primary residence. Any legal disputes or DMCA filings shall be handled within said jurisdiction. Users agree that platform-level moderation (e.g., GitHub Takedowns) is the primary method of dispute resolution.
 
-10. NO AUTOMATED DATA COLLECTION
-You may not use any automated systems, including scrapers or AI training models, to crawl or "learn" from this source code without express written permission.
+Section 10 – SECURITY & INTEGRITY PROTECTION
+Users are prohibited from using the Software in any way that compromises the security, privacy, or integrity of G11 Studios. Any attempt to bypass license checks or facilitate unauthorized access to other systems is a direct violation of this Agreement.
 
-11. SEVERABILITY
-If any part of this license is found to be unenforceable, the remaining sections of this license shall remain in full force and effect.
+Section 11 – SEVERABILITY
+If any part of this Agreement is held unenforceable, the remainder of the Agreement shall remain in full force and effect.
 
-12. ENTIRE AGREEMENT
-This document constitutes the entire agreement and overrides any previous licenses (such as MIT) that may have applied to older versions.
+Section 12 – LICENSE SUPREMACY
+This document constitutes the entire agreement between the user and giorgich11. For the current version of the Software, this license supersedes all previous permissions. Use of the current repository contents constitutes acceptance of these proprietary terms.
 
-13. AUTOMATIC ACCEPTANCE BY INTERACTION
-By following giorgich11, forking any repository owned by giorgich11, downloading the source code, or performing any direct interaction with this project on any platform (GitHub, GitLab, etc.), you hereby UNCONDITIONALLY ACCEPT and AGREE to be bound by all terms and conditions of this Proprietary Software License Agreement. Lack of a signature does not exempt you from these terms.
+Section 13 – CONSENT THROUGH POSSESSION
+By downloading, cloning, forking, or otherwise possessing the Software, the user agrees to be bound by this license. If you do not agree, you must immediately delete all copies and cease all interaction with G11 Studios repositories.
 
-Copyright (c) 2026 giorgich11. All rights reserved.
-This license text is the property of giorgich11. No unauthorized reproduction or redistribution of this legal text is permitted.
+Section 14 – TECHNICAL ENFORCEMENT & INTEGRITY CHECKS
+The Owner reserves the right to implement technical measures to verify the integrity of the Software. Disabling or bypassing these measures results in automatic termination of all usage rights by giorgich11.
+
+Section 15 – EXCLUSIVE LICENSE AUTHORSHIP
+This legal document is a proprietary creation of giorgich11. Unauthorized use, modification, or redistribution of this license text by third parties for their own projects is strictly prohibited. This license is "Signature Logic" and may only be deployed by repositories under the direct control of giorgich11.
