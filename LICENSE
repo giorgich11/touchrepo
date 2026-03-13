@@ -1,5 +1,4 @@
 PROPRIETARY SOFTWARE LICENSE AGREEMENT
-
 Copyright (c) 2026 giorgich11
 
 1. OWNERSHIP
@@ -10,20 +9,41 @@ Subject to the terms of this Agreement, giorgich11 grants you a non-exclusive, n
 
 3. RESTRICTIONS
 
-No Redistribution: You may not redistribute, re-upload, mirror, or transmit this software or its source code to any third party or hosting platform (including but not limited to GitHub, GitLab, or personal websites).
+    No Redistribution: You may not redistribute, re-upload, mirror, or transmit this software or its source code to any third party or hosting platform.
 
-No Derivative Works: You may not modify, adapt, translate, or create derivative works based upon the software.
+    No Derivative Works: You may not modify, adapt, translate, or create derivative works based upon the software.
 
-No Sublicensing: You may not rent, lease, or sublicense the software to any other person or entity.
+    No Sublicensing: You may not rent, lease, or sublicense the software to any other person or entity.
 
 4. ATTRIBUTION
 You may mention and discuss the software in public forums, provided that giorgich11 is clearly credited as the sole owner and author.
 
 5. TERMINATION
-This license is effective until terminated. Your rights under this license will terminate automatically without notice from giorgich11 if you fail to comply with any term(s) of this license. Upon termination, you shall cease all use of the software.
+This license is effective until terminated. Your rights under this license will terminate automatically without notice from giorgich11 if you fail to comply with any term(s) of this license.
 
-TERMINATION AT WILL: giorgich11 reserves the right to terminate or revoke this license and any granted access to the software at any time, for any reason or no reason, with or without prior notice. Upon such termination, you must immediately cease all use of the software and destroy all copies in your possession.
+6. TERMINATION AT WILL
+giorgich11 reserves the right to terminate or revoke this license and any granted access to the software at any time, for any reason or no reason, with or without prior notice. Upon such termination, you must immediately cease all use of the software and destroy all copies in your possession.
+
+7. NO REVERSE ENGINEERING
+You are strictly prohibited from decompiling, disassembling, or attempting to derive the source code from any provided binaries or obfuscated scripts.
+
+8. DISCLAIMER OF WARRANTY & LIMITATION OF LIABILITY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. IN NO EVENT SHALL GIORGICH11 BE LIABLE FOR ANY DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE SOFTWARE.
+
+9. GOVERNING LAW & ENFORCEMENT
+This agreement is governed by the laws of the owner's choosing. giorgich11 reserves the right to pursue all available legal and digital remedies, including DMCA takedown requests.
+
+10. NO AUTOMATED DATA COLLECTION
+You may not use any automated systems, including scrapers or AI training models, to crawl or "learn" from this source code without express written permission.
+
+11. SEVERABILITY
+If any part of this license is found to be unenforceable, the remaining sections of this license shall remain in full force and effect.
+
+12. ENTIRE AGREEMENT
+This document constitutes the entire agreement and overrides any previous licenses (such as MIT) that may have applied to older versions.
+
+13. AUTOMATIC ACCEPTANCE BY INTERACTION
+By following giorgich11, forking any repository owned by giorgich11, downloading the source code, or performing any direct interaction with this project on any platform (GitHub, GitLab, etc.), you hereby UNCONDITIONALLY ACCEPT and AGREE to be bound by all terms and conditions of this Proprietary Software License Agreement. Lack of a signature does not exempt you from these terms.
 
 Copyright (c) 2026 giorgich11. All rights reserved.
 This license text is the property of giorgich11. No unauthorized reproduction or redistribution of this legal text is permitted.
-
